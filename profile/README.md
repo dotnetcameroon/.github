@@ -1,4 +1,4 @@
-# .NET Community Cameroon
+# .NET Cameroon Community
 ![Dotnet Cameroon](/assets/dotnetcameroon.png)
 
 Welcome to the .NET Cameroon Community! We are a group of passionate .NET enthusiasts based in Cameroon, committed to promoting Microsoft technologies and fostering interest in the local community. Our goal is to collaborate on projects that showcase the power and potential of .NET, and we welcome anyone who shares our passion to join us in this mission.
