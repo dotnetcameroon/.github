@@ -34,4 +34,12 @@ If you share our passion for .NET development and want to get involved with the 
 - Contribute to our open-source projects on [GitHub](https://github.com/dotnetcameroon)
 - Share your knowledge and expertise by giving a talk or workshop at one of our events
 
+## Get in touch
+Get in touch with other members by joining us in our following channels:
+
+- [Discord](https://discord.gg/sZbaYYBm)
+- [Telegram](https://t.me/+cjXkPqigrZNkNDE0)
+
+---
+
 We believe that by working together, we can create a thriving .NET community in Cameroon that drives innovation, fosters collaboration, and supports the growth of local businesses and startups. We hope you will join us on this journey!
