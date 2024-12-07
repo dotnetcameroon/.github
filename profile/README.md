@@ -37,6 +37,7 @@ If you share our passion for .NET development and want to get involved with the 
 ## Get in touch
 Get in touch with other members by joining us in our following channels:
 
+- [Visit our website](https://dotnet.cm)
 - [Discord](https://discord.gg/sZbaYYBm)
 - [Telegram](https://t.me/+cjXkPqigrZNkNDE0)
 
